@@ -2,3 +2,4 @@ Wakaka krówka:wakamocow.png
 Juka:juka.png
 Lis:snowfox.jpg
 MDR:mdr.png
+ш:szesz.jpg
