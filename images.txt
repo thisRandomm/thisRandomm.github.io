@@ -3,5 +3,5 @@ Juka:juka.png
 Lis:snowfox.jpg
 MDR:mdr.png
 ш:szesz.jpg
-ш кот:szeszkot.jpg
+ш кот:szeszkot.png
 ш kwiatek:szeszkwiat.jpg
