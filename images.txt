@@ -5,3 +5,4 @@ MDR:mdr.png
 ш:szesz.jpg
 ш кот:szeszkot.png
 ш kwiatek:szeszkwiat.jpg
+test:test.png
