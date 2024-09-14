@@ -6,3 +6,4 @@ MDR:mdr.png
 ш кот:szeszkot.png
 ш kwiatek:szeszkwiat.jpg
 test:test.png
+unimaid:unimaid.png
