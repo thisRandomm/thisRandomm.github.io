@@ -7,3 +7,4 @@ MDR:mdr.png
 ш kwiatek:szeszkwiat.jpg
 test:test.png
 unimaid:unimaid.png
+hina:hina.png
